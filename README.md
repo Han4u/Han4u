@@ -1,6 +1,6 @@
 # Hi, I'm Putra
 🌱 I’m currently learning  <br>
-💻 journey to web 3 developers  <br>
+👨‍💻 journey to web 3 developers  <br>
 🧠 Information System <br>
 🎒 I’m currently Study on Telkom University <br>
 
